@@ -1,1 +1,1 @@
-End-to-End Excel ETL and Dashboard Data Analysis Project
+End-to-End Excel ETL and Dashboard Analysis Project
